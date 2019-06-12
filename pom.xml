@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.raju</groupId>
-    <artifactId>template_library</artifactId>
+    <artifactId>enums_library</artifactId>
     <version>0.1-SNAPSHOT</version>
 
     <properties>
